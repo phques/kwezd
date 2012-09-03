@@ -1,0 +1,12 @@
+kwezd, D language util library
+
+kwezd is Licensed under the Academic Free License version 3.0
+see License.txt or License.html 
+-------
+
+D language util library,
+eg: jsonutil to simplify usage of std.json
+
+
+Philippe Quesnel
+kwez555@hotmail.com
